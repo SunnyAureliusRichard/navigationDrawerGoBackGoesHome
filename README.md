@@ -16,3 +16,5 @@ The user should be on screen 2.
 The user is on screen 1.
 
 The same case is reproducible by using the simulator's go back button.
+
+![Reproducible example](navigationDrawerGoBackGoesHome.gif)
