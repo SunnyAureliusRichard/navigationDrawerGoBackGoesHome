@@ -1,5 +1,7 @@
 # navigationDrawerGoBackGoesHome
 
+https://github.com/react-navigation/react-navigation/issues/11373
+
 This repo demonstrates an issue with the library `@react-navigation/drawer` where the `navigation.goBack` goes to the first screen registered instead of the previous screen seen.
 
 ## To reproduce
